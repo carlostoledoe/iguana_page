@@ -1,0 +1,135 @@
+.container {
+  width:1280px;
+  margin: 0 auto;
+} 
+
+header {
+  background-color: black;
+  text-align: center;
+}
+
+header h1 {
+  color: #fff; 
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 3rem;
+  margin: 0;
+  padding: 0.3rem 0;
+}
+
+.desc-section {
+  background-color: black;
+  color: #fff;
+  height: 348px;
+}
+
+
+.desc-section img {
+  width: 399px;
+  height: 237px;
+}
+
+.desc-section p {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+#p-iguana {
+  display: inline-block;
+  width: 38%;
+  padding: 4.5rem 4rem 0 150px;
+}
+
+#i-iguana {
+  display: inline-block;
+  width: 30%;
+  padding: 3rem;
+}
+
+.icons-section {
+  background-color: #1E1A13;
+  height: 348px;
+  color: #fff ;
+}
+
+.icons-section h2 {
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  font-size: 2.5rem;
+  padding-top: 4.3rem;
+}
+
+.icona, .iconb, .iconc {
+  display: inline-block;
+  width: 33%;
+  color: #fff;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.5rem;
+  padding-top: 3rem;
+}
+
+.icons-section i {
+  font-size: 3.5rem;
+}
+
+.icona {
+  position: relative;
+  left: 8rem;
+}
+
+.iconc {
+  position: relative;
+  right: 8rem;
+}
+
+/*sección de tres imágenes*/
+.igu-pics {
+  background-color: black;
+  height: 348px;
+}
+
+.igu-pics img {
+  width: 316px;
+  height: 202px;
+  display: block; 
+  margin: 0 auto; 
+  padding-top: 4rem;
+}
+
+.igu-pics div {
+  display: inline-block;
+  width: 33%;
+}
+
+footer {
+  background-color: #1E1A13;
+  height: 102px;
+}
+
+footer p {
+  text-align: center;
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.5rem;
+  margin: 0;
+  padding-top: 2rem;
+}
+
+footer a {
+  text-decoration: none;
+}
